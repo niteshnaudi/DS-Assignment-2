@@ -19,20 +19,6 @@ Analysis of 3000 movies from the IMDB dataset to help a rookie movie producer ma
 5. Which actor has acted in the most movies, and how have those movies performed?
 6. Which actors do the top 3 directors prefer the most?
 
-## Files
-
-| File | Description |
-|------|-------------|
-| `imdb_analysis.py` | Main analysis script |
-| `imdb_data.csv` | Dataset with 3000 movies |
-
-## How to Run
-
-```bash
-pip install pandas
-python imdb_analysis.py
-```
-
 ## Dataset
 
 The dataset contains 3000 movies with columns including budget, revenue, cast, crew, genres, release date, and original language. Rows with missing budget values (812 records) are excluded from all financial calculations.
