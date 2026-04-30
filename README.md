@@ -35,14 +35,6 @@ The project focuses on analyzing movie ratings, genres, popularity, votes, and t
 - Matplotlib
 - Seaborn
 
----
-
-## Notebook
-
-`imdb_analysis.ipynb`
-
----
-
 
 ## Repository Structure
 
