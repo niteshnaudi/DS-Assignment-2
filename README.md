@@ -43,10 +43,6 @@ The project focuses on analyzing movie ratings, genres, popularity, votes, and t
 
 ---
 
-## Open in Google Colab
-
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/niteshnaudi/DS-Assignment-2/blob/main/imdb_analysis.ipynb)
-
 
 ## Repository Structure
 
