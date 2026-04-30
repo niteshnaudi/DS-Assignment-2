@@ -1,25 +1,65 @@
-# IMDB Movie Dataset Analysis
+# IMDb Data Analysis
 
-**Name:** Nitesh Naudiyal
-
-**Roll No.:** 2472031
-**Subject:** Introduction to Data Science
+**Name:** Nitesh Naudiyal  
+**Roll No.:** 2472031  
+**Subject:** Introduction to Data Science  
 
 ---
 
-## Overview
+## Project Overview
 
-Analysis of 3000 movies from the IMDB dataset to help a rookie movie producer make data-driven decisions about what type of movies to produce and which actors to cast.
+This repository contains a complete data analysis project on IMDb movie data using Python and Jupyter Notebook.
 
-## Questions Answered
+The project focuses on analyzing movie ratings, genres, popularity, votes, and trends through exploratory data analysis and visualizations.
 
-1. Which movie made the highest profit, and who were its producer, director, and cast?
-2. Which language has the highest average ROI?
-3. What are the unique genres in the dataset?
-4. Who are the top 3 producers by average ROI?
-5. Which actor has acted in the most movies, and how have those movies performed?
-6. Which actors do the top 3 directors prefer the most?
+---
 
-## Dataset
+## Features
 
-The dataset contains 3000 movies with columns including budget, revenue, cast, crew, genres, release date, and original language. Rows with missing budget values (812 records) are excluded from all financial calculations.
+- Data cleaning and preprocessing
+- Exploratory Data Analysis (EDA)
+- Movie rating analysis
+- Genre-wise analysis
+- Popularity and voting trends
+- Data visualization using charts and graphs
+
+---
+
+## Technologies Used
+
+- Python
+- Jupyter Notebook
+- Google Colab
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+
+---
+
+## Notebook
+
+`imdb_analysis.ipynb`
+
+---
+
+## Open in Google Colab
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/niteshnaudi/DS-Assignment-2/blob/main/imdb_analysis.ipynb)
+
+
+## Repository Structure
+
+
+├── imdb_analysis.ipynb
+├── README.md
+
+
+##How to Use
+1.Open the notebook in Google Colab or Jupyter Notebook        
+2.Run all notebook cells        
+3.Explore the analysis and visualizations        
+
+
+##Author
+Created for learning and data analysis practice using IMDb datasets.
