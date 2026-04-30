@@ -39,7 +39,7 @@ The project focuses on analyzing movie ratings, genres, popularity, votes, and t
 ## Repository Structure
 
 
-├── imdb_analysis.ipynb
+├── imdb_analysis.ipynb         
 ├── README.md
 
 
