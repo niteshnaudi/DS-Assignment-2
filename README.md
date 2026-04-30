@@ -55,11 +55,11 @@ The project focuses on analyzing movie ratings, genres, popularity, votes, and t
 ├── README.md
 
 
-##How to Use
+## How to Use
 1.Open the notebook in Google Colab or Jupyter Notebook        
 2.Run all notebook cells        
 3.Explore the analysis and visualizations        
 
 
-##Author
+## Author
 Created for learning and data analysis practice using IMDb datasets.
